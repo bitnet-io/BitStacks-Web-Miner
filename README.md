@@ -1,5 +1,5 @@
 # Mining-Bot
-
+for bitstacks
 
 Please Visit [Mining-Bot Documentation](https://daemon-technologies.github.io/docs/)
 
